@@ -1,0 +1,12 @@
+.nav{
+  color:white;
+}
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-brand {
+  width: 100%;
+  text-align: center;
+}
