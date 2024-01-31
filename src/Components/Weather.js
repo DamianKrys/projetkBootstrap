@@ -6,7 +6,7 @@ const Weather = () => {
   const [city, setCity] = useState('');
   const [weatherData, setWeatherData] = useState(null);
 
-  const apiKey = '5f917bf947410baa49fc1c8146c3d4bd'; // Zastąp własnym kluczem API
+  const apiKey = '5f917bf947410baa49fc1c8146c3d4bd'; 
 
   const handleInputChange = (e) => {
     setCity(e.target.value);

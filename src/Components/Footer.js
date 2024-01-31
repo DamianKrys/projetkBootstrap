@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Footer.css'; // Dodaj plik CSS do importu
+import './Footer.css'; 
 
 const Footer = () => {
   
